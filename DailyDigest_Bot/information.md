@@ -3,9 +3,8 @@
 Язык программирования: Python
 Инструменты: Telegram, BotFather
 Структура проекта:
-
+```
 DAILY_DIGEST_BOT/
-
 │
 ├── 📁 __pycache__/               # КЭШ Python (автоматически генерируется)
 │   ├── config.cpython-311.pyc    # Кэшированные байт-код файлы
@@ -29,7 +28,7 @@ DAILY_DIGEST_BOT/
 ├── 📄 requirements.txt           # ЗАВИСИМОСТИ проекта
 ├── 📄 scheduler.py               # МОДУЛЬ ПЛАНИРОВЩИКА
 └── 📄 sources.py                 # МОДУЛЬ ПАРСИНГА новостей
-
+```
 
 
 ## Общее описание
