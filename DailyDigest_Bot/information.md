@@ -184,7 +184,7 @@ aiohttp==3.9.1        # Асинхронные HTTP-запросы
 
 
 1. Создание виртуального окружения `python -m venv venv`
-2.Активация виртуального окружения `venv\Scripts\activate`
+2. Активация виртуального окружения `venv\Scripts\activate`
 3. Установите зависимости: `pip install -r requirements.txt`
 5. Создайте (обновите) файл `config.py` с вашим токеном бота/Telegram ID (для активации функции статистики)
 6. Запустите бота: `python main.py`
